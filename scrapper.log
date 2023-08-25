@@ -5386,3 +5386,599 @@ INFO:root:log my final result []
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "POST /review HTTP/1.1" 200 -
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.8:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:00:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:00:22] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:00:22] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:00:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 's21fe', 'Name': 'Udit Joshi', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Reviewing after one month use Nice and handy phone with 6.4 displayCompact size.Camera 📷 is mind blowing 🔥🔥Battery life is okDisplay is amazing with victous glass protection which is best in marketFor normal use its a best phone with amazing features and customisation'}, {'Product': 's21fe', 'Name': 'Debarghya Pati', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Awesome phone. Loved the camera . Display is Awesome and beautiful. Buy it without  hesitating'}, {'Product': 's21fe', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Using since last 10 days and super happy with the purchase, also prompt delivery by flipkart,what an amazing camera,display and lovely one UI,received immediate android 13 one UI 5 update,overall happy and satisfied with my purchase.'}, {'Product': 's21fe', 'Name': 'Sandeep  Rai', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'It is a great mobile, its camera is exactly like a flagship, can not get a better mobile in this range.'}, {'Product': 's21fe', 'Name': 'Nikhil  Dalei', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': "Here's  a general all time camera samples .Best phone you can get around 30k ❤"}, {'Product': 's21fe', 'Name': 'Subhadip  Jana', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Very very good 👍👍👍👍👍👍 camera 📸'}, {'Product': 's21fe', 'Name': 'Srinu  Karnati ', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'I personally buy this phone for camera it is good but sometimes feeling need more optimisation and battery performance also good when we get refresh rate at standard it will go for long day 120 hz can drain ur battery easily and display is also very good sound was dolby atmos was very good soo finally experiencing flagship samsung mobile haptic feedback is also nice now slowly felling love with this mobile'}, {'Product': 's21fe', 'Name': 'Phanikumar Attada', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Stunning camera performance mind blowing purchase.'}, {'Product': 's21fe', 'Name': 'Arpana  Pati', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Very nice looking 👌 Very good camera Performance is good combination of exynosBattery is slightly better Yes it is worth for money'}, {'Product': 's21fe', 'Name': 'Prashanth  G', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': "Best camera.Super display. IP 68 rating.3 yrs Android updates.A good all rounder mobile.But missing fast charging compare with other mobiles in this price segment. It's ok for me."}, {'Product': 's21fe', 'Name': 'Prashanth  G', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': "Best camera.Super display. IP 68 rating.3 yrs Android updates.A good all rounder mobile.But missing fast charging compare with other mobiles in this price segment. It's ok for me."}]
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:00:27] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:00:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:00:27] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.8:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:01:52] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:01:53] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:01:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 's21fe', 'Name': 'Udit Joshi', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Reviewing after one month use Nice and handy phone with 6.4 displayCompact size.Camera 📷 is mind blowing 🔥🔥Battery life is okDisplay is amazing with victous glass protection which is best in marketFor normal use its a best phone with amazing features and customisation'}, {'Product': 's21fe', 'Name': 'Debarghya Pati', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Awesome phone. Loved the camera . Display is Awesome and beautiful. Buy it without  hesitating'}, {'Product': 's21fe', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Using since last 10 days and super happy with the purchase, also prompt delivery by flipkart,what an amazing camera,display and lovely one UI,received immediate android 13 one UI 5 update,overall happy and satisfied with my purchase.'}, {'Product': 's21fe', 'Name': 'Sandeep  Rai', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'It is a great mobile, its camera is exactly like a flagship, can not get a better mobile in this range.'}, {'Product': 's21fe', 'Name': 'Nikhil  Dalei', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': "Here's  a general all time camera samples .Best phone you can get around 30k ❤"}, {'Product': 's21fe', 'Name': 'Subhadip  Jana', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Very very good 👍👍👍👍👍👍 camera 📸'}, {'Product': 's21fe', 'Name': 'Srinu  Karnati ', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'I personally buy this phone for camera it is good but sometimes feeling need more optimisation and battery performance also good when we get refresh rate at standard it will go for long day 120 hz can drain ur battery easily and display is also very good sound was dolby atmos was very good soo finally experiencing flagship samsung mobile haptic feedback is also nice now slowly felling love with this mobile'}, {'Product': 's21fe', 'Name': 'Phanikumar Attada', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Stunning camera performance mind blowing purchase.'}, {'Product': 's21fe', 'Name': 'Arpana  Pati', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Very nice looking 👌 Very good camera Performance is good combination of exynosBattery is slightly better Yes it is worth for money'}, {'Product': 's21fe', 'Name': 'Prashanth  G', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': "Best camera.Super display. IP 68 rating.3 yrs Android updates.A good all rounder mobile.But missing fast charging compare with other mobiles in this price segment. It's ok for me."}, {'Product': 's21fe', 'Name': 'Prashanth  G', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': "Best camera.Super display. IP 68 rating.3 yrs Android updates.A good all rounder mobile.But missing fast charging compare with other mobiles in this price segment. It's ok for me."}]
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:01:57] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:03:12] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:03:12] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:03:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 's21fe', 'Name': 'Udit Joshi', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Reviewing after one month use Nice and handy phone with 6.4 displayCompact size.Camera 📷 is mind blowing 🔥🔥Battery life is okDisplay is amazing with victous glass protection which is best in marketFor normal use its a best phone with amazing features and customisation'}, {'Product': 's21fe', 'Name': 'Debarghya Pati', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Awesome phone. Loved the camera . Display is Awesome and beautiful. Buy it without  hesitating'}, {'Product': 's21fe', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Using since last 10 days and super happy with the purchase, also prompt delivery by flipkart,what an amazing camera,display and lovely one UI,received immediate android 13 one UI 5 update,overall happy and satisfied with my purchase.'}, {'Product': 's21fe', 'Name': 'Sandeep  Rai', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'It is a great mobile, its camera is exactly like a flagship, can not get a better mobile in this range.'}, {'Product': 's21fe', 'Name': 'Nikhil  Dalei', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': "Here's  a general all time camera samples .Best phone you can get around 30k ❤"}, {'Product': 's21fe', 'Name': 'Subhadip  Jana', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Very very good 👍👍👍👍👍👍 camera 📸'}, {'Product': 's21fe', 'Name': 'Srinu  Karnati ', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'I personally buy this phone for camera it is good but sometimes feeling need more optimisation and battery performance also good when we get refresh rate at standard it will go for long day 120 hz can drain ur battery easily and display is also very good sound was dolby atmos was very good soo finally experiencing flagship samsung mobile haptic feedback is also nice now slowly felling love with this mobile'}, {'Product': 's21fe', 'Name': 'Phanikumar Attada', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Stunning camera performance mind blowing purchase.'}, {'Product': 's21fe', 'Name': 'Arpana  Pati', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Very nice looking 👌 Very good camera Performance is good combination of exynosBattery is slightly better Yes it is worth for money'}, {'Product': 's21fe', 'Name': 'Prashanth  G', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': "Best camera.Super display. IP 68 rating.3 yrs Android updates.A good all rounder mobile.But missing fast charging compare with other mobiles in this price segment. It's ok for me."}, {'Product': 's21fe', 'Name': 'Prashanth  G', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': "Best camera.Super display. IP 68 rating.3 yrs Android updates.A good all rounder mobile.But missing fast charging compare with other mobiles in this price segment. It's ok for me."}]
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:03:16] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.8:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:06:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:06:37] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:06:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 's21fe', 'Name': 'Udit Joshi', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Reviewing after one month use Nice and handy phone with 6.4 displayCompact size.Camera 📷 is mind blowing 🔥🔥Battery life is okDisplay is amazing with victous glass protection which is best in marketFor normal use its a best phone with amazing features and customisation'}, {'Product': 's21fe', 'Name': 'Debarghya Pati', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Awesome phone. Loved the camera . Display is Awesome and beautiful. Buy it without  hesitating'}, {'Product': 's21fe', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Using since last 10 days and super happy with the purchase, also prompt delivery by flipkart,what an amazing camera,display and lovely one UI,received immediate android 13 one UI 5 update,overall happy and satisfied with my purchase.'}, {'Product': 's21fe', 'Name': 'Sandeep  Rai', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'It is a great mobile, its camera is exactly like a flagship, can not get a better mobile in this range.'}, {'Product': 's21fe', 'Name': 'Nikhil  Dalei', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': "Here's  a general all time camera samples .Best phone you can get around 30k ❤"}, {'Product': 's21fe', 'Name': 'Subhadip  Jana', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Very very good 👍👍👍👍👍👍 camera 📸'}, {'Product': 's21fe', 'Name': 'Srinu  Karnati ', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'I personally buy this phone for camera it is good but sometimes feeling need more optimisation and battery performance also good when we get refresh rate at standard it will go for long day 120 hz can drain ur battery easily and display is also very good sound was dolby atmos was very good soo finally experiencing flagship samsung mobile haptic feedback is also nice now slowly felling love with this mobile'}, {'Product': 's21fe', 'Name': 'Phanikumar Attada', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Stunning camera performance mind blowing purchase.'}, {'Product': 's21fe', 'Name': 'Arpana  Pati', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Very nice looking 👌 Very good camera Performance is good combination of exynosBattery is slightly better Yes it is worth for money'}, {'Product': 's21fe', 'Name': 'Prashanth  G', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': "Best camera.Super display. IP 68 rating.3 yrs Android updates.A good all rounder mobile.But missing fast charging compare with other mobiles in this price segment. It's ok for me."}, {'Product': 's21fe', 'Name': 'Prashanth  G', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': "Best camera.Super display. IP 68 rating.3 yrs Android updates.A good all rounder mobile.But missing fast charging compare with other mobiles in this price segment. It's ok for me."}]
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:06:41] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.8:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:18:40] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:18:40] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:18:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'redmi', 'Name': 'Abhinav  Priyadarshi', 'Rating': '4', 'CommentHead': 'Delightful', 'Comment': 'After almost 2 months of use i think you can go for it for minimum budget'}, {'Product': 'redmi', 'Name': 'Ansh Kamboj', 'Rating': '4', 'CommentHead': 'Value-for-money', 'Comment': 'Nice mobile. Good for daily use and very good performance,display very smooth,battry good and all conditions very good 👍'}, {'Product': 'redmi', 'Name': 'Fajlul Karim', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Awesome product'}, {'Product': 'redmi', 'Name': 'Vini Tiwari ', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'I love this product 🥰'}, {'Product': 'redmi', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'good camera'}, {'Product': 'redmi', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': 'Super'}, {'Product': 'redmi', 'Name': 'Mandeep Ram', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Value for money'}, {'Product': 'redmi', 'Name': 'Utpal Dey', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Best'}, {'Product': 'redmi', 'Name': 'Upe Upe', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': "These phone very beautiful and model also different camera quality amazing super that's why I like these phone and I like these screenshots super"}, {'Product': 'redmi', 'Name': 'Prasenjit Mahato', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'Amazing phone.  Display quality very nice 👌. Battery performance very good.'}, {'Product': 'redmi', 'Name': 'Prasenjit Mahato', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Amazing phone.  Display quality very nice 👌. Battery performance very good.'}]
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:18:44] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.8:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:21:51] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:21:51] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:21:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 's21fe', 'Name': 'Udit Joshi', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Reviewing after one month use Nice and handy phone with 6.4 displayCompact size.Camera 📷 is mind blowing 🔥🔥Battery life is okDisplay is amazing with victous glass protection which is best in marketFor normal use its a best phone with amazing features and customisation'}, {'Product': 's21fe', 'Name': 'Debarghya Pati', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Awesome phone. Loved the camera . Display is Awesome and beautiful. Buy it without  hesitating'}, {'Product': 's21fe', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Using since last 10 days and super happy with the purchase, also prompt delivery by flipkart,what an amazing camera,display and lovely one UI,received immediate android 13 one UI 5 update,overall happy and satisfied with my purchase.'}, {'Product': 's21fe', 'Name': 'Sandeep  Rai', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'It is a great mobile, its camera is exactly like a flagship, can not get a better mobile in this range.'}, {'Product': 's21fe', 'Name': 'Nikhil  Dalei', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': "Here's  a general all time camera samples .Best phone you can get around 30k ❤"}, {'Product': 's21fe', 'Name': 'Subhadip  Jana', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Very very good 👍👍👍👍👍👍 camera 📸'}, {'Product': 's21fe', 'Name': 'Srinu  Karnati ', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'I personally buy this phone for camera it is good but sometimes feeling need more optimisation and battery performance also good when we get refresh rate at standard it will go for long day 120 hz can drain ur battery easily and display is also very good sound was dolby atmos was very good soo finally experiencing flagship samsung mobile haptic feedback is also nice now slowly felling love with this mobile'}, {'Product': 's21fe', 'Name': 'Phanikumar Attada', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Stunning camera performance mind blowing purchase.'}, {'Product': 's21fe', 'Name': 'Arpana  Pati', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Very nice looking 👌 Very good camera Performance is good combination of exynosBattery is slightly better Yes it is worth for money'}, {'Product': 's21fe', 'Name': 'Prashanth  G', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': "Best camera.Super display. IP 68 rating.3 yrs Android updates.A good all rounder mobile.But missing fast charging compare with other mobiles in this price segment. It's ok for me."}, {'Product': 's21fe', 'Name': 'Prashanth  G', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': "Best camera.Super display. IP 68 rating.3 yrs Android updates.A good all rounder mobile.But missing fast charging compare with other mobiles in this price segment. It's ok for me."}]
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:21:56] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.8:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:25:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:25:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:25:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 's21fe', 'Name': 'Udit Joshi', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Reviewing after one month use Nice and handy phone with 6.4 displayCompact size.Camera 📷 is mind blowing 🔥🔥Battery life is okDisplay is amazing with victous glass protection which is best in marketFor normal use its a best phone with amazing features and customisation'}, {'Product': 's21fe', 'Name': 'Debarghya Pati', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Awesome phone. Loved the camera . Display is Awesome and beautiful. Buy it without  hesitating'}, {'Product': 's21fe', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Using since last 10 days and super happy with the purchase, also prompt delivery by flipkart,what an amazing camera,display and lovely one UI,received immediate android 13 one UI 5 update,overall happy and satisfied with my purchase.'}, {'Product': 's21fe', 'Name': 'Sandeep  Rai', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'It is a great mobile, its camera is exactly like a flagship, can not get a better mobile in this range.'}, {'Product': 's21fe', 'Name': 'Nikhil  Dalei', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': "Here's  a general all time camera samples .Best phone you can get around 30k ❤"}, {'Product': 's21fe', 'Name': 'Subhadip  Jana', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Very very good 👍👍👍👍👍👍 camera 📸'}, {'Product': 's21fe', 'Name': 'Srinu  Karnati ', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'I personally buy this phone for camera it is good but sometimes feeling need more optimisation and battery performance also good when we get refresh rate at standard it will go for long day 120 hz can drain ur battery easily and display is also very good sound was dolby atmos was very good soo finally experiencing flagship samsung mobile haptic feedback is also nice now slowly felling love with this mobile'}, {'Product': 's21fe', 'Name': 'Phanikumar Attada', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Stunning camera performance mind blowing purchase.'}, {'Product': 's21fe', 'Name': 'Arpana  Pati', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Very nice looking 👌 Very good camera Performance is good combination of exynosBattery is slightly better Yes it is worth for money'}, {'Product': 's21fe', 'Name': 'Prashanth  G', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': "Best camera.Super display. IP 68 rating.3 yrs Android updates.A good all rounder mobile.But missing fast charging compare with other mobiles in this price segment. It's ok for me."}, {'Product': 's21fe', 'Name': 'Prashanth  G', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': "Best camera.Super display. IP 68 rating.3 yrs Android updates.A good all rounder mobile.But missing fast charging compare with other mobiles in this price segment. It's ok for me."}]
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:25:14] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.8:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:31:25] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:31:25] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:31:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 's21fe', 'Name': 'Udit Joshi', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Reviewing after one month use Nice and handy phone with 6.4 displayCompact size.Camera 📷 is mind blowing 🔥🔥Battery life is okDisplay is amazing with victous glass protection which is best in marketFor normal use its a best phone with amazing features and customisation'}, {'Product': 's21fe', 'Name': 'Debarghya Pati', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Awesome phone. Loved the camera . Display is Awesome and beautiful. Buy it without  hesitating'}, {'Product': 's21fe', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Using since last 10 days and super happy with the purchase, also prompt delivery by flipkart,what an amazing camera,display and lovely one UI,received immediate android 13 one UI 5 update,overall happy and satisfied with my purchase.'}, {'Product': 's21fe', 'Name': 'Sandeep  Rai', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'It is a great mobile, its camera is exactly like a flagship, can not get a better mobile in this range.'}, {'Product': 's21fe', 'Name': 'Nikhil  Dalei', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': "Here's  a general all time camera samples .Best phone you can get around 30k ❤"}, {'Product': 's21fe', 'Name': 'Subhadip  Jana', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Very very good 👍👍👍👍👍👍 camera 📸'}, {'Product': 's21fe', 'Name': 'Srinu  Karnati ', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'I personally buy this phone for camera it is good but sometimes feeling need more optimisation and battery performance also good when we get refresh rate at standard it will go for long day 120 hz can drain ur battery easily and display is also very good sound was dolby atmos was very good soo finally experiencing flagship samsung mobile haptic feedback is also nice now slowly felling love with this mobile'}, {'Product': 's21fe', 'Name': 'Phanikumar Attada', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Stunning camera performance mind blowing purchase.'}, {'Product': 's21fe', 'Name': 'Arpana  Pati', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Very nice looking 👌 Very good camera Performance is good combination of exynosBattery is slightly better Yes it is worth for money'}, {'Product': 's21fe', 'Name': 'Prashanth  G', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': "Best camera.Super display. IP 68 rating.3 yrs Android updates.A good all rounder mobile.But missing fast charging compare with other mobiles in this price segment. It's ok for me."}, {'Product': 's21fe', 'Name': 'Prashanth  G', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': "Best camera.Super display. IP 68 rating.3 yrs Android updates.A good all rounder mobile.But missing fast charging compare with other mobiles in this price segment. It's ok for me."}]
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:31:29] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:31:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [24/Aug/2023 15:31:30] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.8:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [24/Aug/2023 18:43:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Aug/2023 18:43:34] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Aug/2023 18:43:34] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 's21fe', 'Name': 'Udit Joshi', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Reviewing after one month use Nice and handy phone with 6.4 displayCompact size.Camera 📷 is mind blowing 🔥🔥Battery life is okDisplay is amazing with victous glass protection which is best in marketFor normal use its a best phone with amazing features and customisation'}, {'Product': 's21fe', 'Name': 'Debarghya Pati', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Awesome phone. Loved the camera . Display is Awesome and beautiful. Buy it without  hesitating'}, {'Product': 's21fe', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Using since last 10 days and super happy with the purchase, also prompt delivery by flipkart,what an amazing camera,display and lovely one UI,received immediate android 13 one UI 5 update,overall happy and satisfied with my purchase.'}, {'Product': 's21fe', 'Name': 'Sandeep  Rai', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'It is a great mobile, its camera is exactly like a flagship, can not get a better mobile in this range.'}, {'Product': 's21fe', 'Name': 'Nikhil  Dalei', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': "Here's  a general all time camera samples .Best phone you can get around 30k ❤"}, {'Product': 's21fe', 'Name': 'Subhadip  Jana', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Very very good 👍👍👍👍👍👍 camera 📸'}, {'Product': 's21fe', 'Name': 'Srinu  Karnati ', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'I personally buy this phone for camera it is good but sometimes feeling need more optimisation and battery performance also good when we get refresh rate at standard it will go for long day 120 hz can drain ur battery easily and display is also very good sound was dolby atmos was very good soo finally experiencing flagship samsung mobile haptic feedback is also nice now slowly felling love with this mobile'}, {'Product': 's21fe', 'Name': 'Phanikumar Attada', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Stunning camera performance mind blowing purchase.'}, {'Product': 's21fe', 'Name': 'Arpana  Pati', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Very nice looking 👌 Very good camera Performance is good combination of exynosBattery is slightly better Yes it is worth for money'}, {'Product': 's21fe', 'Name': 'Prashanth  G', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': "Best camera.Super display. IP 68 rating.3 yrs Android updates.A good all rounder mobile.But missing fast charging compare with other mobiles in this price segment. It's ok for me."}, {'Product': 's21fe', 'Name': 'Prashanth  G', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': "Best camera.Super display. IP 68 rating.3 yrs Android updates.A good all rounder mobile.But missing fast charging compare with other mobiles in this price segment. It's ok for me."}]
+INFO:werkzeug:172.18.0.2 - - [24/Aug/2023 18:43:40] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Aug/2023 18:43:40] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [24/Aug/2023 18:43:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.8:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [24/Aug/2023 18:44:46] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Aug/2023 18:44:46] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Aug/2023 18:44:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [24/Aug/2023 18:44:51] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.8:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [24/Aug/2023 18:55:48] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Aug/2023 18:55:48] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Aug/2023 18:55:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [24/Aug/2023 18:55:53] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.8:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [24/Aug/2023 18:58:04] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Aug/2023 18:58:04] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Aug/2023 18:58:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [24/Aug/2023 18:58:09] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.8:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [24/Aug/2023 18:59:14] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Aug/2023 18:59:14] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Aug/2023 18:59:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:documents must be a non-empty list
+INFO:werkzeug:172.18.0.2 - - [24/Aug/2023 18:59:18] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Aug/2023 18:59:21] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Aug/2023 18:59:23] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Aug/2023 18:59:23] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Aug/2023 18:59:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:documents must be a non-empty list
+INFO:werkzeug:172.18.0.2 - - [24/Aug/2023 18:59:27] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Aug/2023 19:15:50] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [24/Aug/2023 19:15:50] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [24/Aug/2023 19:15:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:documents must be a non-empty list
+INFO:werkzeug:172.18.0.2 - - [24/Aug/2023 19:15:56] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.27:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:31:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:31:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:31:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 's21fe', 'Name': 'Udit Joshi', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Reviewing after one month use Nice and handy phone with 6.4 displayCompact size.Camera 📷 is mind blowing 🔥🔥Battery life is okDisplay is amazing with victous glass protection which is best in marketFor normal use its a best phone with amazing features and customisation'}, {'Product': 's21fe', 'Name': 'Debarghya Pati', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Awesome phone. Loved the camera . Display is Awesome and beautiful. Buy it without  hesitating'}, {'Product': 's21fe', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Using since last 10 days and super happy with the purchase, also prompt delivery by flipkart,what an amazing camera,display and lovely one UI,received immediate android 13 one UI 5 update,overall happy and satisfied with my purchase.'}, {'Product': 's21fe', 'Name': 'Sandeep  Rai', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'It is a great mobile, its camera is exactly like a flagship, can not get a better mobile in this range.'}, {'Product': 's21fe', 'Name': 'Nikhil  Dalei', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': "Here's  a general all time camera samples .Best phone you can get around 30k ❤"}, {'Product': 's21fe', 'Name': 'Subhadip  Jana', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Very very good 👍👍👍👍👍👍 camera 📸'}, {'Product': 's21fe', 'Name': 'Srinu  Karnati ', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'I personally buy this phone for camera it is good but sometimes feeling need more optimisation and battery performance also good when we get refresh rate at standard it will go for long day 120 hz can drain ur battery easily and display is also very good sound was dolby atmos was very good soo finally experiencing flagship samsung mobile haptic feedback is also nice now slowly felling love with this mobile'}, {'Product': 's21fe', 'Name': 'Phanikumar Attada', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Stunning camera performance mind blowing purchase.'}, {'Product': 's21fe', 'Name': 'Arpana  Pati', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Very nice looking 👌 Very good camera Performance is good combination of exynosBattery is slightly better Yes it is worth for money'}, {'Product': 's21fe', 'Name': 'Prashanth  G', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': "Best camera.Super display. IP 68 rating.3 yrs Android updates.A good all rounder mobile.But missing fast charging compare with other mobiles in this price segment. It's ok for me."}, {'Product': 's21fe', 'Name': 'Prashanth  G', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': "Best camera.Super display. IP 68 rating.3 yrs Android updates.A good all rounder mobile.But missing fast charging compare with other mobiles in this price segment. It's ok for me."}]
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:31:25] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:31:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:31:25] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.27:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:33:08] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:33:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:33:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 's21fe', 'Name': 'Udit Joshi', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Reviewing after one month use Nice and handy phone with 6.4 displayCompact size.Camera 📷 is mind blowing 🔥🔥Battery life is okDisplay is amazing with victous glass protection which is best in marketFor normal use its a best phone with amazing features and customisation'}, {'Product': 's21fe', 'Name': 'Debarghya Pati', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Awesome phone. Loved the camera . Display is Awesome and beautiful. Buy it without  hesitating'}, {'Product': 's21fe', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Using since last 10 days and super happy with the purchase, also prompt delivery by flipkart,what an amazing camera,display and lovely one UI,received immediate android 13 one UI 5 update,overall happy and satisfied with my purchase.'}, {'Product': 's21fe', 'Name': 'Sandeep  Rai', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'It is a great mobile, its camera is exactly like a flagship, can not get a better mobile in this range.'}, {'Product': 's21fe', 'Name': 'Nikhil  Dalei', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': "Here's  a general all time camera samples .Best phone you can get around 30k ❤"}, {'Product': 's21fe', 'Name': 'Subhadip  Jana', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Very very good 👍👍👍👍👍👍 camera 📸'}, {'Product': 's21fe', 'Name': 'Srinu  Karnati ', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'I personally buy this phone for camera it is good but sometimes feeling need more optimisation and battery performance also good when we get refresh rate at standard it will go for long day 120 hz can drain ur battery easily and display is also very good sound was dolby atmos was very good soo finally experiencing flagship samsung mobile haptic feedback is also nice now slowly felling love with this mobile'}, {'Product': 's21fe', 'Name': 'Phanikumar Attada', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Stunning camera performance mind blowing purchase.'}, {'Product': 's21fe', 'Name': 'Arpana  Pati', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Very nice looking 👌 Very good camera Performance is good combination of exynosBattery is slightly better Yes it is worth for money'}, {'Product': 's21fe', 'Name': 'Prashanth  G', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': "Best camera.Super display. IP 68 rating.3 yrs Android updates.A good all rounder mobile.But missing fast charging compare with other mobiles in this price segment. It's ok for me."}, {'Product': 's21fe', 'Name': 'Prashanth  G', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': "Best camera.Super display. IP 68 rating.3 yrs Android updates.A good all rounder mobile.But missing fast charging compare with other mobiles in this price segment. It's ok for me."}]
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:33:12] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.27:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:35:44] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:35:44] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:35:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:35:49] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.27:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:36:56] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:36:56] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:36:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:37:01] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.27:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:37:42] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:37:42] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:37:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:37:46] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.27:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:38:42] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:38:42] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:38:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 's21fe', 'Name': 'Udit Joshi', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Reviewing after one month use Nice and handy phone with 6.4 displayCompact size.Camera 📷 is mind blowing 🔥🔥Battery life is okDisplay is amazing with victous glass protection which is best in marketFor normal use its a best phone with amazing features and customisation'}, {'Product': 's21fe', 'Name': 'Debarghya Pati', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Awesome phone. Loved the camera . Display is Awesome and beautiful. Buy it without  hesitating'}, {'Product': 's21fe', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Using since last 10 days and super happy with the purchase, also prompt delivery by flipkart,what an amazing camera,display and lovely one UI,received immediate android 13 one UI 5 update,overall happy and satisfied with my purchase.'}, {'Product': 's21fe', 'Name': 'Sandeep  Rai', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'It is a great mobile, its camera is exactly like a flagship, can not get a better mobile in this range.'}, {'Product': 's21fe', 'Name': 'Nikhil  Dalei', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': "Here's  a general all time camera samples .Best phone you can get around 30k ❤"}, {'Product': 's21fe', 'Name': 'Subhadip  Jana', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Very very good 👍👍👍👍👍👍 camera 📸'}, {'Product': 's21fe', 'Name': 'Srinu  Karnati ', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'I personally buy this phone for camera it is good but sometimes feeling need more optimisation and battery performance also good when we get refresh rate at standard it will go for long day 120 hz can drain ur battery easily and display is also very good sound was dolby atmos was very good soo finally experiencing flagship samsung mobile haptic feedback is also nice now slowly felling love with this mobile'}, {'Product': 's21fe', 'Name': 'Phanikumar Attada', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Stunning camera performance mind blowing purchase.'}, {'Product': 's21fe', 'Name': 'Arpana  Pati', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Very nice looking 👌 Very good camera Performance is good combination of exynosBattery is slightly better Yes it is worth for money'}, {'Product': 's21fe', 'Name': 'Prashanth  G', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': "Best camera.Super display. IP 68 rating.3 yrs Android updates.A good all rounder mobile.But missing fast charging compare with other mobiles in this price segment. It's ok for me."}, {'Product': 's21fe', 'Name': 'Prashanth  G', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': "Best camera.Super display. IP 68 rating.3 yrs Android updates.A good all rounder mobile.But missing fast charging compare with other mobiles in this price segment. It's ok for me."}]
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:38:46] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:38:46] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:38:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.27:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:53:02] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:53:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:53:02] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:name 'uri' is not defined
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:53:07] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.27:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:54:02] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:54:02] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:54:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 's21fe', 'Name': 'Udit Joshi', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Reviewing after one month use Nice and handy phone with 6.4 displayCompact size.Camera 📷 is mind blowing 🔥🔥Battery life is okDisplay is amazing with victous glass protection which is best in marketFor normal use its a best phone with amazing features and customisation'}, {'Product': 's21fe', 'Name': 'Debarghya Pati', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Awesome phone. Loved the camera . Display is Awesome and beautiful. Buy it without  hesitating'}, {'Product': 's21fe', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Using since last 10 days and super happy with the purchase, also prompt delivery by flipkart,what an amazing camera,display and lovely one UI,received immediate android 13 one UI 5 update,overall happy and satisfied with my purchase.'}, {'Product': 's21fe', 'Name': 'Sandeep  Rai', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'It is a great mobile, its camera is exactly like a flagship, can not get a better mobile in this range.'}, {'Product': 's21fe', 'Name': 'Nikhil  Dalei', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': "Here's  a general all time camera samples .Best phone you can get around 30k ❤"}, {'Product': 's21fe', 'Name': 'Subhadip  Jana', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Very very good 👍👍👍👍👍👍 camera 📸'}, {'Product': 's21fe', 'Name': 'Srinu  Karnati ', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'I personally buy this phone for camera it is good but sometimes feeling need more optimisation and battery performance also good when we get refresh rate at standard it will go for long day 120 hz can drain ur battery easily and display is also very good sound was dolby atmos was very good soo finally experiencing flagship samsung mobile haptic feedback is also nice now slowly felling love with this mobile'}, {'Product': 's21fe', 'Name': 'Phanikumar Attada', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Stunning camera performance mind blowing purchase.'}, {'Product': 's21fe', 'Name': 'Arpana  Pati', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Very nice looking 👌 Very good camera Performance is good combination of exynosBattery is slightly better Yes it is worth for money'}, {'Product': 's21fe', 'Name': 'Prashanth  G', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': "Best camera.Super display. IP 68 rating.3 yrs Android updates.A good all rounder mobile.But missing fast charging compare with other mobiles in this price segment. It's ok for me."}, {'Product': 's21fe', 'Name': 'Prashanth  G', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': "Best camera.Super display. IP 68 rating.3 yrs Android updates.A good all rounder mobile.But missing fast charging compare with other mobiles in this price segment. It's ok for me."}]
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:54:06] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:54:06] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:54:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.27:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:58:20] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:58:20] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:58:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:module 'pymongo.errors' has no attribute 'ConnectionError'
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 09:58:25] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.27:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:00:51] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:00:51] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:00:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:module 'pymongo.errors' has no attribute 'ConnectionError'
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:00:56] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.27:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:05:05] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:05:05] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:05:05] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:05:09] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.27:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:07:49] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:07:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:07:50] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:07:54] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.27:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:18:11] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:18:11] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:18:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:18:16] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.27:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:20:49] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:20:49] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:20:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:bad auth : authentication failed, full error: {'ok': 0, 'errmsg': 'bad auth : authentication failed', 'code': 8000, 'codeName': 'AtlasError'}
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:20:54] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.27:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:26:46] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:26:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:26:46] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 's21fe', 'Name': 'Udit Joshi', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Reviewing after one month use Nice and handy phone with 6.4 displayCompact size.Camera 📷 is mind blowing 🔥🔥Battery life is okDisplay is amazing with victous glass protection which is best in marketFor normal use its a best phone with amazing features and customisation', '_id': ObjectId('64e83492ae50d05d89663a82')}, {'Product': 's21fe', 'Name': 'Debarghya Pati', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Awesome phone. Loved the camera . Display is Awesome and beautiful. Buy it without  hesitating', '_id': ObjectId('64e83492ae50d05d89663a83')}, {'Product': 's21fe', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Using since last 10 days and super happy with the purchase, also prompt delivery by flipkart,what an amazing camera,display and lovely one UI,received immediate android 13 one UI 5 update,overall happy and satisfied with my purchase.', '_id': ObjectId('64e83492ae50d05d89663a84')}, {'Product': 's21fe', 'Name': 'Sandeep  Rai', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'It is a great mobile, its camera is exactly like a flagship, can not get a better mobile in this range.', '_id': ObjectId('64e83492ae50d05d89663a85')}, {'Product': 's21fe', 'Name': 'Nikhil  Dalei', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': "Here's  a general all time camera samples .Best phone you can get around 30k ❤", '_id': ObjectId('64e83492ae50d05d89663a86')}, {'Product': 's21fe', 'Name': 'Subhadip  Jana', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Very very good 👍👍👍👍👍👍 camera 📸', '_id': ObjectId('64e83492ae50d05d89663a87')}, {'Product': 's21fe', 'Name': 'Srinu  Karnati ', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'I personally buy this phone for camera it is good but sometimes feeling need more optimisation and battery performance also good when we get refresh rate at standard it will go for long day 120 hz can drain ur battery easily and display is also very good sound was dolby atmos was very good soo finally experiencing flagship samsung mobile haptic feedback is also nice now slowly felling love with this mobile', '_id': ObjectId('64e83492ae50d05d89663a88')}, {'Product': 's21fe', 'Name': 'Phanikumar Attada', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Stunning camera performance mind blowing purchase.', '_id': ObjectId('64e83492ae50d05d89663a89')}, {'Product': 's21fe', 'Name': 'Arpana  Pati', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Very nice looking 👌 Very good camera Performance is good combination of exynosBattery is slightly better Yes it is worth for money', '_id': ObjectId('64e83492ae50d05d89663a8a')}, {'Product': 's21fe', 'Name': 'Prashanth  G', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': "Best camera.Super display. IP 68 rating.3 yrs Android updates.A good all rounder mobile.But missing fast charging compare with other mobiles in this price segment. It's ok for me.", '_id': ObjectId('64e83492ae50d05d89663a8b')}, {'Product': 's21fe', 'Name': 'Prashanth  G', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': "Best camera.Super display. IP 68 rating.3 yrs Android updates.A good all rounder mobile.But missing fast charging compare with other mobiles in this price segment. It's ok for me.", '_id': ObjectId('64e83492ae50d05d89663a8c')}]
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:26:50] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:26:50] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:26:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/config/workspace/review-scrapper-aws-main/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.27:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 135-104-731
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:28:21] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:28:21] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:28:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 's21fe', 'Name': 'Udit Joshi', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Reviewing after one month use Nice and handy phone with 6.4 displayCompact size.Camera 📷 is mind blowing 🔥🔥Battery life is okDisplay is amazing with victous glass protection which is best in marketFor normal use its a best phone with amazing features and customisation', '_id': ObjectId('64e834f276d66a1e3bfd98d8')}, {'Product': 's21fe', 'Name': 'Debarghya Pati', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Awesome phone. Loved the camera . Display is Awesome and beautiful. Buy it without  hesitating', '_id': ObjectId('64e834f276d66a1e3bfd98d9')}, {'Product': 's21fe', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Using since last 10 days and super happy with the purchase, also prompt delivery by flipkart,what an amazing camera,display and lovely one UI,received immediate android 13 one UI 5 update,overall happy and satisfied with my purchase.', '_id': ObjectId('64e834f276d66a1e3bfd98da')}, {'Product': 's21fe', 'Name': 'Sandeep  Rai', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'It is a great mobile, its camera is exactly like a flagship, can not get a better mobile in this range.', '_id': ObjectId('64e834f276d66a1e3bfd98db')}, {'Product': 's21fe', 'Name': 'Nikhil  Dalei', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': "Here's  a general all time camera samples .Best phone you can get around 30k ❤", '_id': ObjectId('64e834f276d66a1e3bfd98dc')}, {'Product': 's21fe', 'Name': 'Subhadip  Jana', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Very very good 👍👍👍👍👍👍 camera 📸', '_id': ObjectId('64e834f276d66a1e3bfd98dd')}, {'Product': 's21fe', 'Name': 'Srinu  Karnati ', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'I personally buy this phone for camera it is good but sometimes feeling need more optimisation and battery performance also good when we get refresh rate at standard it will go for long day 120 hz can drain ur battery easily and display is also very good sound was dolby atmos was very good soo finally experiencing flagship samsung mobile haptic feedback is also nice now slowly felling love with this mobile', '_id': ObjectId('64e834f276d66a1e3bfd98de')}, {'Product': 's21fe', 'Name': 'Phanikumar Attada', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Stunning camera performance mind blowing purchase.', '_id': ObjectId('64e834f276d66a1e3bfd98df')}, {'Product': 's21fe', 'Name': 'Arpana  Pati', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Very nice looking 👌 Very good camera Performance is good combination of exynosBattery is slightly better Yes it is worth for money', '_id': ObjectId('64e834f276d66a1e3bfd98e0')}, {'Product': 's21fe', 'Name': 'Prashanth  G', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': "Best camera.Super display. IP 68 rating.3 yrs Android updates.A good all rounder mobile.But missing fast charging compare with other mobiles in this price segment. It's ok for me.", '_id': ObjectId('64e834f276d66a1e3bfd98e1')}, {'Product': 's21fe', 'Name': 'Prashanth  G', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': "Best camera.Super display. IP 68 rating.3 yrs Android updates.A good all rounder mobile.But missing fast charging compare with other mobiles in this price segment. It's ok for me.", '_id': ObjectId('64e834f276d66a1e3bfd98e2')}]
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:28:26] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:28:26] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:28:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:28:28] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:28:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:28:29] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'redmi', 'Name': 'Sanjoo Aravind', 'Rating': '1', 'CommentHead': 'Horrible', 'Comment': "Completed 8 months only ..Now the blade is damaged..In MI service they will not provide warranty and spare also not available for this product...Very worst experience in MI...Before I used NOVA only ,it will work for 3 years without any issues..But this is ****... Don't buy, this will not work for more than 1 year ...", '_id': ObjectId('64e834fa76d66a1e3bfd98e4')}, {'Product': 'redmi', 'Name': 'Prem  Singh', 'Rating': '1', 'CommentHead': 'Very poor', 'Comment': 'The small plastic that holds the trimmer moving blade broke and now it cuts the skin while trimming beard', '_id': ObjectId('64e834fa76d66a1e3bfd98e5')}, {'Product': 'redmi', 'Name': 'Sameer Shelar', 'Rating': '1', 'CommentHead': 'Unsatisfactory', 'Comment': 'Just after 3 uses the blade alignment is broken and it cuts the skin when shaving. Really bad experience.', '_id': ObjectId('64e834fa76d66a1e3bfd98e6')}, {'Product': 'redmi', 'Name': 'Siddarthtr Raibagi', 'Rating': '1', 'CommentHead': 'Terrible product', 'Comment': 'Adjustable Pointer is going inside while  trimming , due to tat I got clean shaved 😡😡', '_id': ObjectId('64e834fa76d66a1e3bfd98e7')}, {'Product': 'redmi', 'Name': 'Sadiq  Qureshi', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'While i was using this it was fully charged 3 indicator light. I have cutted my head hair and beard as well. Only 1 indicator down. Still almost it has 60% battery.Strong battery, no others brand can provide us on this price range except mi. Having Smooth cutting experience. I would like to strong recommend to everyone.', '_id': ObjectId('64e834fa76d66a1e3bfd98e8')}, {'Product': 'redmi', 'Name': 'Mohit Gupta', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'Pros- very very skin friendly, best battery, premium looks, small and compact, battery indicator via led blinkers Cons- not water resistant, everytime you attach the comb you have to set the level of precision to 0 which kinda irritatingOverall its nice trimmer and best part is its so so so skin friendly that Philips trimmer looks harsh in front of this.', '_id': ObjectId('64e834fa76d66a1e3bfd98e9')}, {'Product': 'redmi', 'Name': 'Mahesh Bhosale', 'Rating': '1', 'CommentHead': 'Hated it!', 'Comment': "Blade quality wasn't good, after using 3 months the blade plastic broken. It is a waste of money.", '_id': ObjectId('64e834fa76d66a1e3bfd98ea')}, {'Product': 'redmi', 'Name': 'Ishant Dhingra', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Go and purchase it. Battery backup is very good but just need to understand how the blade works as I tried several time to trim using number 3 and 4 but not got that response however u if u remove the blade cover it will work very good at 0 number.', '_id': ObjectId('64e834fa76d66a1e3bfd98eb')}, {'Product': 'redmi', 'Name': 'Ankit Jha', 'Rating': '1', 'CommentHead': 'Very poor', 'Comment': 'Poor Build Quality Poor blade build quality within one month blade lock broken.Poor design not very precise in cutting.', '_id': ObjectId('64e834fa76d66a1e3bfd98ec')}, {'Product': 'redmi', 'Name': 'Sumith K S', 'Rating': '1', 'CommentHead': "Don't waste your money", 'Comment': 'Very bad it cannot last for 1 month', '_id': ObjectId('64e834fa76d66a1e3bfd98ed')}, {'Product': 'redmi', 'Name': 'Sumith K S', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Very bad it cannot last for 1 month', '_id': ObjectId('64e834fa76d66a1e3bfd98ee')}]
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:28:34] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:28:34] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:28:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:36:45] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:36:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:36:45] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone12', 'Name': 'Sunita  Yadav', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'This is the value for money phone. For Flipkart:On time delieveryAlways best serviceFeedback call received after 5 daysApple:One word: SuperbPicture Quality Ultimate', '_id': ObjectId('64e836ea76d66a1e3bfd98f0')}, {'Product': 'iphone12', 'Name': 'Arjun  Chakravarti ', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Awesome', '_id': ObjectId('64e836ea76d66a1e3bfd98f1')}, {'Product': 'iphone12', 'Name': 'Rupesh Thik', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Awesome Camera', '_id': ObjectId('64e836ea76d66a1e3bfd98f2')}, {'Product': 'iphone12', 'Name': 'Sibsankar Das', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Camera quality is just fabulous. Interface is very smooth.  Good for photography and videography.', '_id': ObjectId('64e836ea76d66a1e3bfd98f3')}, {'Product': 'iphone12', 'Name': 'Sivaramaraju Raju', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Best iPhone till date 💕', '_id': ObjectId('64e836ea76d66a1e3bfd98f4')}, {'Product': 'iphone12', 'Name': 'Jaya chandra  Reddy', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Amazing phone  In love with this phone', '_id': ObjectId('64e836ea76d66a1e3bfd98f5')}, {'Product': 'iphone12', 'Name': 'Hariprasad b', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'Performance is soooo fastEspecially faceid detection is awesome even in darkNo need to carry an dslr .this is more than enough attaching puc taken by this', '_id': ObjectId('64e836ea76d66a1e3bfd98f6')}, {'Product': 'iphone12', 'Name': 'Manoj Kumar ', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Super', '_id': ObjectId('64e836ea76d66a1e3bfd98f7')}, {'Product': 'iphone12', 'Name': 'Shivam Kengale', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Go for it', '_id': ObjectId('64e836ea76d66a1e3bfd98f8')}, {'Product': 'iphone12', 'Name': 'Ankur Sharma', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'display is good , processor is awesome', '_id': ObjectId('64e836ea76d66a1e3bfd98f9')}, {'Product': 'iphone12', 'Name': 'Ankur Sharma', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'display is good , processor is awesome', '_id': ObjectId('64e836ea76d66a1e3bfd98fa')}]
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:36:51] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:36:51] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [25/Aug/2023 10:36:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
